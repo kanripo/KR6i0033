@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:15.662345
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:29
 #+TITLE: 佛說彌勒下生成佛經
 #+PROPERTY: CBETA_ID T14n0454
 #+PROPERTY: ID KR6i0033
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 454
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0033_T_000-0423c>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0033_T_001-0423c> ¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.454[Nos.453,455]¶
-
- 佛說彌勒下生成佛經¶
+No. 454 [Nos. 453, 455]¶
+佛說彌勒下生成佛經¶
 ¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
@@ -84,7 +83,7 @@ No.454[Nos.453,455]¶
 眾生，為此寶故，共相殘害，更相偷劫、欺誑、妄¶
 語，令生死罪緣，展轉增長。翅頭末城，眾寶¶
 羅網，彌覆其上，寶鈴莊嚴，微風吹動，其聲¶
-和雅，如扣鐘罄。¶
+和雅，如扣鐘磬。¶
 
 「其城中有大婆羅門主，名曰妙梵；婆羅門女，¶
 名曰梵摩波提；彌勒託生，以為父母，身紫¶
@@ -193,9 +192,9 @@ No.454[Nos.453,455]¶
 　十力世尊甚希有，
 　無上最勝良福田；¶
 　其供養者生天上，
-　稽首無比大精進。』
+　稽首無比大精進。』」
 #+END_VERSE
-」¶
+¶
 
 「爾時天人羅剎等，見大力魔，佛降伏之，千萬¶
 億無量眾生，皆大歡喜，合掌唱言：『甚為希¶
